@@ -174,3 +174,28 @@ specific portion of the code. Check out the demo on the projector!
    <p>Hello 2</p>
 </div>
 ```
+
+```
+<p class="hello">Hello</p>
+
+.hello {
+   font-size: 10px;
+}
+```
+
+#### font-size, font-family, and font-weight
+
+We can alter the font size, font weight, and the font itself! font-size is literally the
+font size, and font-weight is the boldness/lack of boldness. font-family is the
+actual font (so think Arial, Times New Roman, etc).
+
+For example, `font-weight: bold` = bold, and `font-size: 36px` = a font size of
+36px...which is bigger than normal. `font-family: Helvetica` will change the
+font to Helvetica instead of the default Times New Roman.
+
+#### background-color and color
+
+We can also alter the background color of the page and the color of the text.
+
+For example, `background-color: blue` will make the background blue, whereas
+`color: blue` will make the text blue.
